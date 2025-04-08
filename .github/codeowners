@@ -1,11 +1,15 @@
 # Code owners (backend team)
-* @xvvcs @kacengas @marutza @rrromanm
+
+- @xvvcs @kacengas @marutza @rrromanm
 
 # GitHub Actions workflows
-.github/workflows/ @xvvcs @kacengas @marutza @rrromanm
+
+.github/workflows/ @xvvcs @kacengas @marutza @rrromanm @dimitur2204 @PlamenMichev
 
 # All files in the root directory
-.backend @xvvcs @kacengas @marutza @rrromanm
+
+.backend @xvvcs @kacengas @marutza @rrromanm @dimitur2204 @PlamenMichev
 
 # README and all markdown files
-*.md @xvvcs @kacengas @marutza @rrromanm
+
+\*.md @xvvcs @kacengas @marutza @rrromanm
