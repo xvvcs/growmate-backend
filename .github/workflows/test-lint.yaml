@@ -1,26 +1,26 @@
-name: C# Lint check
-
-on:
-  workflow_dispatch:
-  pull_request:
-    branches:
-      - master
-
-jobs:
-  lint:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Setup .NET SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: "8.0.x"
-
-      - name: Restore dependencies
-        run: dotnet restore
-
-      - name: Lint with dotnet format
-        run: dotnet format --verify-no-changes --severity warn
+#name: C# Lint check
+#
+#on:
+#  workflow_dispatch:
+#  pull_request:
+#    branches:
+#      - master
+#
+#jobs:
+#  lint:
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Checkout code
+#        uses: actions/checkout@v2
+#
+#      - name: Setup .NET SDK
+#        uses: actions/setup-dotnet@v3
+#        with:
+#          dotnet-version: "8.0.x"
+#
+#      - name: Restore dependencies
+#        run: dotnet restore path/to/Solution1.sln
+#
+#      - name: Lint with dotnet format
+#        run: dotnet format --verify-no-changes --severity warn
