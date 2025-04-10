@@ -20,7 +20,7 @@ jobs:
           dotnet-version: "8.0.x"
 
       - name: Restore dependencies
-        run: dotnet restore/SEP4_Backend.sln
+        run: dotnet restore path/to/SEP4_Backend.sln
 
       - name: Lint with dotnet format
         run: dotnet format --verify-no-changes --severity warn
