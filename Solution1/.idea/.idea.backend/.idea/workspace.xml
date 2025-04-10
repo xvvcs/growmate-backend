@@ -9,21 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d319a90-da53-42ba-ad45-dc29f6cb0e67" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Gardener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Gardener.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Greenhouse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Greenhouse.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Log.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Log.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Notification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Notification.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/NotificationPreferences.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/NotificationPreferences.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Picture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Picture.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Plant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Plant.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Prediction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Prediction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/Sensor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/Sensor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/SensorReading.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/SensorReading.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Domain/WaterPump.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Models/WaterPump.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shared/Shared.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend.sln" beforeDir="false" afterPath="$PROJECT_DIR$/backend.sln" afterDir="false" />
-    </list>
+    <list default="true" id="7d319a90-da53-42ba-ad45-dc29f6cb0e67" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744303824376</updated>
-      <workItem from="1744303825493" duration="484000" />
+      <workItem from="1744303825493" duration="1369000" />
     </task>
     <servers />
   </component>
